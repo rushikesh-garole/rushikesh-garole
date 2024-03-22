@@ -1,7 +1,7 @@
 ###            Hi there 👋 I'm rushikesh garole
 
-  - ⚡ Fun fact: main github ac suspended their have my contributions 😢
-
+  - ⚡ My main GitHub account got suspended, despite having my valuable contributions there! 🚫😔
+  - Switching to this as my main account. Previous one got suspended. Asked GitHub for help. Excited to keep contributing!
 
 - 🌱 I’m currently learning java full stack
 - 💬 Ask me about ...s/w dev in java
